@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint III\ModuloIII\ModuloIII\bin\Debug\netcoreapp3.1\ModuloIII.exe
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint III\ModuloIII\ModuloIII\bin\Debug\netcoreapp3.1\ModuloIII.deps.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint III\ModuloIII\ModuloIII\bin\Debug\netcoreapp3.1\ModuloIII.runtimeconfig.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint III\ModuloIII\ModuloIII\bin\Debug\netcoreapp3.1\ModuloIII.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint III\ModuloIII\ModuloIII\bin\Debug\netcoreapp3.1\ModuloIII.dll
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint III\ModuloIII\ModuloIII\bin\Debug\netcoreapp3.1\ModuloIII.pdb
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint III\ModuloIII\ModuloIII\obj\Debug\netcoreapp3.1\ModuloIII.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint III\ModuloIII\ModuloIII\obj\Debug\netcoreapp3.1\ModuloIII.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint III\ModuloIII\ModuloIII\obj\Debug\netcoreapp3.1\ModuloIII.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint III\ModuloIII\ModuloIII\obj\Debug\netcoreapp3.1\ModuloIII.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint III\ModuloIII\ModuloIII\obj\Debug\netcoreapp3.1\ModuloIII.dll
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint III\ModuloIII\ModuloIII\obj\Debug\netcoreapp3.1\ModuloIII.pdb
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint III\ModuloIII\ModuloIII\obj\Debug\netcoreapp3.1\ModuloIII.genruntimeconfig.cache

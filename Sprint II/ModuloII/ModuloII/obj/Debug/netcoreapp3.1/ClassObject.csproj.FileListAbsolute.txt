@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\ModuloII\bin\Debug\netcoreapp3.1\ClassObject.exe
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\ModuloII\bin\Debug\netcoreapp3.1\ClassObject.deps.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\ModuloII\bin\Debug\netcoreapp3.1\ClassObject.runtimeconfig.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\ModuloII\bin\Debug\netcoreapp3.1\ClassObject.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\ModuloII\bin\Debug\netcoreapp3.1\ClassObject.dll
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\ModuloII\bin\Debug\netcoreapp3.1\ClassObject.pdb
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\ModuloII\obj\Debug\netcoreapp3.1\ClassObject.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\ModuloII\obj\Debug\netcoreapp3.1\ClassObject.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\ModuloII\obj\Debug\netcoreapp3.1\ClassObject.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\ModuloII\obj\Debug\netcoreapp3.1\ClassObject.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\ModuloII\obj\Debug\netcoreapp3.1\ClassObject.dll
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\ModuloII\obj\Debug\netcoreapp3.1\ClassObject.pdb
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\ModuloII\obj\Debug\netcoreapp3.1\ClassObject.genruntimeconfig.cache

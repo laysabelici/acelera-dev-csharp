@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InheritanceAndPolymorphism/1.0.0": {
+        "dependencies": {
+          "ClassObject": "1.0.0",
+          "Encapsulation": "1.0.0"
+        },
+        "runtime": {
+          "InheritanceAndPolymorphism.dll": {}
+        }
+      },
+      "ClassObject/1.0.0": {
+        "runtime": {
+          "ClassObject.dll": {}
+        }
+      },
+      "Encapsulation/1.0.0": {
+        "runtime": {
+          "Encapsulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InheritanceAndPolymorphism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Encapsulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\InterfaceAndNomeclatur\bin\Debug\netcoreapp3.1\InterfaceAndNomeclatur.exe
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\InterfaceAndNomeclatur\bin\Debug\netcoreapp3.1\InterfaceAndNomeclatur.deps.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\InterfaceAndNomeclatur\bin\Debug\netcoreapp3.1\InterfaceAndNomeclatur.runtimeconfig.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\InterfaceAndNomeclatur\bin\Debug\netcoreapp3.1\InterfaceAndNomeclatur.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\InterfaceAndNomeclatur\bin\Debug\netcoreapp3.1\InterfaceAndNomeclatur.dll
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\InterfaceAndNomeclatur\bin\Debug\netcoreapp3.1\InterfaceAndNomeclatur.pdb
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\InterfaceAndNomeclatur\obj\Debug\netcoreapp3.1\InterfaceAndNomeclatur.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\InterfaceAndNomeclatur\obj\Debug\netcoreapp3.1\InterfaceAndNomeclatur.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\InterfaceAndNomeclatur\obj\Debug\netcoreapp3.1\InterfaceAndNomeclatur.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\InterfaceAndNomeclatur\obj\Debug\netcoreapp3.1\InterfaceAndNomeclatur.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\InterfaceAndNomeclatur\obj\Debug\netcoreapp3.1\InterfaceAndNomeclatur.dll
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\InterfaceAndNomeclatur\obj\Debug\netcoreapp3.1\InterfaceAndNomeclatur.pdb
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint II\ModuloII\InterfaceAndNomeclatur\obj\Debug\netcoreapp3.1\InterfaceAndNomeclatur.genruntimeconfig.cache
