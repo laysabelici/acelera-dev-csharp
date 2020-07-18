@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ExpressionAritmetic\obj\Debug\netcoreapp3.1\ExpressionAritmetic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ExpressionAritmetic\obj\Debug\netcoreapp3.1\ExpressionAritmetic.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ExpressionAritmetic\obj\Debug\netcoreapp3.1\ExpressionAritmetic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ExpressionAritmetic\bin\Debug\netcoreapp3.1\ExpressionAritmetic.exe
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ExpressionAritmetic\bin\Debug\netcoreapp3.1\ExpressionAritmetic.deps.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ExpressionAritmetic\bin\Debug\netcoreapp3.1\ExpressionAritmetic.runtimeconfig.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ExpressionAritmetic\bin\Debug\netcoreapp3.1\ExpressionAritmetic.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ExpressionAritmetic\bin\Debug\netcoreapp3.1\ExpressionAritmetic.dll
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ExpressionAritmetic\bin\Debug\netcoreapp3.1\ExpressionAritmetic.pdb
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ExpressionAritmetic\obj\Debug\netcoreapp3.1\ExpressionAritmetic.dll
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ExpressionAritmetic\obj\Debug\netcoreapp3.1\ExpressionAritmetic.pdb
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ExpressionAritmetic\obj\Debug\netcoreapp3.1\ExpressionAritmetic.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ExpressionAritmetic\obj\Debug\netcoreapp3.1\ExpressionAritmetic.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\LogicOperation\bin\Debug\netcoreapp3.1\LogicOperation.exe
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\LogicOperation\bin\Debug\netcoreapp3.1\LogicOperation.deps.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\LogicOperation\bin\Debug\netcoreapp3.1\LogicOperation.runtimeconfig.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\LogicOperation\bin\Debug\netcoreapp3.1\LogicOperation.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\LogicOperation\bin\Debug\netcoreapp3.1\LogicOperation.dll
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\LogicOperation\bin\Debug\netcoreapp3.1\LogicOperation.pdb
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\LogicOperation\obj\Debug\netcoreapp3.1\LogicOperation.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\LogicOperation\obj\Debug\netcoreapp3.1\LogicOperation.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\LogicOperation\obj\Debug\netcoreapp3.1\LogicOperation.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\LogicOperation\obj\Debug\netcoreapp3.1\LogicOperation.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\LogicOperation\obj\Debug\netcoreapp3.1\LogicOperation.dll
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\LogicOperation\obj\Debug\netcoreapp3.1\LogicOperation.pdb
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\LogicOperation\obj\Debug\netcoreapp3.1\LogicOperation.genruntimeconfig.cache

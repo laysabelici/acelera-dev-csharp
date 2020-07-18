@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ConditionAndLoops\bin\Debug\netcoreapp3.1\ConditionAndLoops.exe
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ConditionAndLoops\bin\Debug\netcoreapp3.1\ConditionAndLoops.deps.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ConditionAndLoops\bin\Debug\netcoreapp3.1\ConditionAndLoops.runtimeconfig.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ConditionAndLoops\bin\Debug\netcoreapp3.1\ConditionAndLoops.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ConditionAndLoops\bin\Debug\netcoreapp3.1\ConditionAndLoops.dll
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ConditionAndLoops\bin\Debug\netcoreapp3.1\ConditionAndLoops.pdb
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ConditionAndLoops\obj\Debug\netcoreapp3.1\ConditionAndLoops.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ConditionAndLoops\obj\Debug\netcoreapp3.1\ConditionAndLoops.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ConditionAndLoops\obj\Debug\netcoreapp3.1\ConditionAndLoops.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ConditionAndLoops\obj\Debug\netcoreapp3.1\ConditionAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ConditionAndLoops\obj\Debug\netcoreapp3.1\ConditionAndLoops.dll
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ConditionAndLoops\obj\Debug\netcoreapp3.1\ConditionAndLoops.pdb
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ConditionAndLoops\obj\Debug\netcoreapp3.1\ConditionAndLoops.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ListsAndArrays\bin\Debug\netcoreapp3.1\ListsAndArrays.exe
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ListsAndArrays\bin\Debug\netcoreapp3.1\ListsAndArrays.deps.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ListsAndArrays\bin\Debug\netcoreapp3.1\ListsAndArrays.runtimeconfig.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ListsAndArrays\bin\Debug\netcoreapp3.1\ListsAndArrays.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ListsAndArrays\bin\Debug\netcoreapp3.1\ListsAndArrays.dll
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ListsAndArrays\bin\Debug\netcoreapp3.1\ListsAndArrays.pdb
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ListsAndArrays\obj\Debug\netcoreapp3.1\ListsAndArrays.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ListsAndArrays\obj\Debug\netcoreapp3.1\ListsAndArrays.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ListsAndArrays\obj\Debug\netcoreapp3.1\ListsAndArrays.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ListsAndArrays\obj\Debug\netcoreapp3.1\ListsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ListsAndArrays\obj\Debug\netcoreapp3.1\ListsAndArrays.dll
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ListsAndArrays\obj\Debug\netcoreapp3.1\ListsAndArrays.pdb
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\ListsAndArrays\obj\Debug\netcoreapp3.1\ListsAndArrays.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\TypeVariables\obj\Debug\netcoreapp3.1\TypeVariables.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\TypeVariables\obj\Debug\netcoreapp3.1\TypeVariables.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\TypeVariables\obj\Debug\netcoreapp3.1\TypeVariables.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\TypeVariables\obj\Debug\netcoreapp3.1\TypeVariables.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\TypeVariables\bin\Debug\netcoreapp3.1\TypeVariables.exe
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\TypeVariables\bin\Debug\netcoreapp3.1\TypeVariables.deps.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\TypeVariables\bin\Debug\netcoreapp3.1\TypeVariables.runtimeconfig.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\TypeVariables\bin\Debug\netcoreapp3.1\TypeVariables.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\TypeVariables\bin\Debug\netcoreapp3.1\TypeVariables.dll
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\TypeVariables\bin\Debug\netcoreapp3.1\TypeVariables.pdb
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\TypeVariables\obj\Debug\netcoreapp3.1\TypeVariables.dll
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\TypeVariables\obj\Debug\netcoreapp3.1\TypeVariables.pdb
+C:\Users\Usuario\Desktop\ESTUDOS\PROGRAMAÇÃO\C#\Sprint I\ModuloI\TypeVariables\obj\Debug\netcoreapp3.1\TypeVariables.genruntimeconfig.cache
